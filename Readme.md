@@ -4,9 +4,9 @@ I'm a professional full-stack software developer with expertise in .NET and Java
 
 ## About Me
 
-- 🔭 I’ve been coding since 2012 and have experience in web applications using the .NET stack and modern JavaScript frameworks.
+- 🔭 I’ve been coding since 2012 and have experience in ERP applications using the .NET stack and modern JavaScript frameworks.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date in the ever-evolving world of software development.
-- 💬 Ask me about anything related to full-stack development, .NET, JavaScript, or software architecture.
+- 💬 Ask me about anything related to software developing or software architecture.
 
 ## Skills
 
